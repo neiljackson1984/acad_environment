@@ -3,7 +3,7 @@
 (defun C:nestingReport ( /
     result
     entity
-    nestingPathne
+    nestingPath
     report
     )
     
